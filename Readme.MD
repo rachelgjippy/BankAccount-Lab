@@ -1,6 +1,4 @@
 # BankAccount Lab
-
-
 This Java application simulates a simple bank account with deposit, withdrawal, and balance check functionalities.
 
 
@@ -18,12 +16,12 @@ To run the application:
 
 1. Compile the Java files using the command:
 
-
-javac BankAccount.java Main.java
-2. Run the program using:
 
-java Main
-## Concepts Covered
+javac BankAccount.java Main.java
+2. Run the program using:
+
+java Main
+## Concepts Covered
 
 - Variables
 
@@ -35,9 +33,6 @@ javac BankAccount.java Main.java
 
 - Classes and Information Hiding
 
-To add a README.md, create the file and add your explanation to it.
+To add a README.md, create the file and add your explanation to it.
 Branching: If you're working in a team, consider creating a new branch for your work:
-
-git checkout -b feature/your-feature-name
 
-

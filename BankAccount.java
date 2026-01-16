@@ -19,7 +19,7 @@ public class BankAccount {
     // Protected variable (Access Specifiers Challenge)
     protected String accountStatus;
 
-    // Constants
+    // Constants for withdrawal limit and overdraft fess
     private static final double WITHDRAWAL_LIMIT = 1000.0;
     private static final double OVERDRAFT_FEE = 10.0;
 
